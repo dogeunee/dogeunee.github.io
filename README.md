@@ -44,52 +44,52 @@ This is my general plan
 
 math-
 
-Linear Algebra (MIT 18.06)
+-Linear Algebra (MIT 18.06)
 
-Calculus
+-Calculus
 
-Vector Calculus
+-Vector Calculus
 
-Probability
+-Probability
 
-Math for CS
+-Math for CS
 
-Differential Calculus
+-Differential Calculus
 
-Signal and Systems
+-Signal and Systems
 
 
 
 CS
 
-Nand2Tetris
+-Nand2Tetris
 
-Missing Semester
+-Missing Semester
 
-CSAPP
+-CSAPP
 
-Computer Architecture
+-Computer Architecture
 
-Artificial intelligence
+-Artificial intelligence
 
-Machine learning
+-Machine learning
 
-Algorithms
+-Algorithms
 
-Operating Systems
+-Operating Systems
 
-Distributed Systems
+-Distributed Systems
 
-Networks
+-Networks
 
-Database
+-Database
 
-Compiler
+-Compiler
 
-Deep Learning
+-Deep Learning
 
-Machine Vision
+-Machine Vision
 
-Computer graphics
+-Computer graphics
 
 
