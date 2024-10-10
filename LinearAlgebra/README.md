@@ -3,6 +3,7 @@
 Course: [MIT 18.01SC introduction to linear algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 Rating: **4/5**
+
 Short Review:
  this is a great course for a Linear algebra introductory course. The lectures are very insightful and very clear with each course less than an hour (usually around 50 min). The book explains the topic in more detail than the book. The questions aren’t too hard rather I’d say easy to medium. I didn’t solve the quizzes provided in the website I instead solved ones in the book. If they are too easy and repetitive I solved half of them and I solved all of the questions from chapters that I’m unfamiliar. Exams we’re not that hard as well.
 
