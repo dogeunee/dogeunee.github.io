@@ -1,6 +1,6 @@
 # Linear Algebra
 
-- Course Link: [missing semester of you're CS education](https://missing.csail.mit.edu/)
+- Course Link: [missing semester of your CS education](https://missing.csail.mit.edu/)
 
 - Prerequisites: None
 
