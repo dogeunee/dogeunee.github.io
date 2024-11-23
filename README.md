@@ -5,9 +5,12 @@
  I live in South Korea and I am currently working in the ROK Airforce for my mandatory military service. I started my service at May 2025 and through out my 21 months I wanted to explore the field of CS and ECE to improve my knowleadge. I will regularly share what I have been studying in this blog and I hope it helps out people on their Self Studying Journey.
 
 **Reviews:**
-[Linear Algebra](./LinearAlgebra)
 
-[Missimg Semester](./MissingCS)
+[Linear Algebra](./LinearAlgebra) .Sep 2024
+
+[Missimg Semester](./MissingCS) .Oct 2024
+
+[Nand2Tetris](./Nand2Tetris) .Oct2024
 
 These are the reasons why I am starting this blog.
 
