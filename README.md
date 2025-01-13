@@ -12,6 +12,8 @@
 
 [Nand2Tetris](./Nand2Tetris) (Oct 2024)
 
+[MultivariableCalculus](./MultiCal) (Dec 2024)
+
 These are the reasons why I am starting this blog.
 
 **1. motivation for myself**
