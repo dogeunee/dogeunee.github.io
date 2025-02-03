@@ -51,13 +51,13 @@ I usually stick to a course that has video lectures. First I start watching the 
 
 This is my general plan
 
-**math**`
+**math**
 
 - Linear Algebra (MIT 18.06)
 
 - Calculus
 
-- Vector Calculus
+- Vector Calculus (MIT 18.02)
 
 - Probability
 
