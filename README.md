@@ -1,4 +1,3 @@
-<script defer data-domain="dogeunee.github.io" src="https://plausible.io/js/script.js"></script>
 # Self Study Soldier
 
  Hi! this is Dogeun.
