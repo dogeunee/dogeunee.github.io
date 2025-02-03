@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Self Study Soldier Blog
 description: ROK Airforce (5.2024~) 
 include: [_includes]
+head: head.html
 
