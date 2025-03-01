@@ -1,5 +1,6 @@
 # Nand2Tetris
 
+![Nand2Tetris image](images/Nand2Tetris.Default)
 - Course Link: [Nand2Tetris](https://www.coursera.org/learn/build-a-computer)
 
 - Prerequisites: any programming language of choice
