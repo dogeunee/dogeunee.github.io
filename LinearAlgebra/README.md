@@ -1,4 +1,5 @@
 # Linear Algebra
+![LinearAlgebra img](../images/LinearAlg.jpg)
 
 - Course Link: [MIT 18.01SC introduction to linear algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 

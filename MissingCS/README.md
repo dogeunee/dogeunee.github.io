@@ -1,4 +1,5 @@
-# Linear Algebra
+#Missing Semester of your CS education
+![missing sem image](../images/missingSem.jpg)
 
 - Course Link: [missing semester of your CS education](https://missing.csail.mit.edu/)
 
