@@ -5,5 +5,10 @@
 - Prerequisites: SingleVariable Calculus (highschool calculus)  
 
 - Rating: **4/5**
+- Review: This course provides a solid understanding of Multivariable Calculus, a subject widely used in engineering, physics, and many other fields. Unlike rigorous, theory-heavy calculus courses, this one takes a more practical approach, making it especially suitable for engineers. However, it still covers everything you need to understand its various applications.
 
-- Review: This course will give you a good understanding of Multivariable Calculus, which is used in numerouse fields in Engineering, Physics etc... The content of the course isn't a hardcore calculus course and rather a practical version suitable for Engineers. But you will get everything you need to understand other applications. I used the official website to watch the course and then did my book according to the course. The correct part of the book following the book will be in the readings section of the official website. The difficulty of the questions in the book is good so I recommend this way of self studying. Notes and exams provided in the website is also excelent if you want to go further. Overall this is a very good course if you want to dig in a bit more into multivariable calculus.
+I followed the official course website to watch the lectures and then studied the corresponding sections in the textbook. The website provides a readings section that helps you match the book’s content with the lectures. The difficulty level of the book’s exercises is well-balanced, so I highly recommend this approach for self-study.
+
+Additionally, the notes and exams available on the course website are excellent resources if you want to go deeper into the subject.
+
+Overall, this is a great course for anyone looking to strengthen their understanding of Multivariable Calculus.

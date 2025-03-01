@@ -6,6 +6,15 @@
 
 - Rating: **5/5**
 
-- Review: This course will help you get a good grasp of how computers work. It covers from very low level things such as logic gates to high level things like compilers and operating systems. Consisting in two parts, the first part you will learn how low level hardware is built. You will build a full computer by learning boolean logic and logic gates to making a CPU and RAM. It supplies an official web ide so you can do all the projects easily using ur computer. It is very satisfying to go through all the projects and will give you a general idea of how low level computer works.
+- Review: This course provides a comprehensive introduction to how computers work, covering everything from low-level concepts like logic gates to high-level topics such as compilers and operating systems.
 
-- The second part takes about three times more effort as it is more like a CS course that wants you to code and build things. Even though the official course doesn't expect any prerequisites, to go through all the projects especailly in the second part of the course you must have a decent enought profficiency in a programming language of your choice. The projects that have to do with this part are for compiling high level programs to machine level code. Basicaly you will be writing a compiler. It has a course specific language so it will be easy than making a full compiler for conventional languages and it will give you a good grasp of compilers and how your code actually works behind. You can find good sources that will help you in the official forum and sources in github like mine. I recommend this course for anyone who wants to get an idea of how computer works or people who wants to get an introductional course for computer systems.
+The course is divided into two parts:
+
+The first part focuses on hardware and low-level systems. You will gradually build a complete computer, starting from Boolean logic and logic gates, then moving on to designing a CPU and RAM. The course provides an official web IDE, making it easy to complete all the projects directly on your computer. Going through these projects is highly satisfying, and by the end, you will have a strong understanding of how low-level computer hardware works.
+
+The second part is significantly more challenging, requiring about three times more effort than the first. It shifts towards computer science concepts, requiring you to code and build things. While the official course does not assume any prerequisites, having a solid grasp of a programming language is essential—especially for the second part. In this section, you will work on compiling high-level programs to machine code, essentially building a compiler. The course introduces its own specific language, making the compiler project more manageable than building one for a conventional language. However, it still provides an excellent introduction to compilers and a deep understanding of how code translates into machine instructions.
+
+If you ever need help, the official forum and GitHub repositories (including mine) offer useful resources.
+
+I highly recommend this course to anyone curious about how computers work or those looking for a solid introduction to computer systems.
+

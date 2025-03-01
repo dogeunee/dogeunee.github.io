@@ -6,4 +6,10 @@
 
 - Rating: **3/5**
 
-- Review:This course will give you all the tools you need outside of conventional CS courses. you can learn how to use the shell, use editors like vim and use version control tools like git and many more. The course has a brief video on each topics and you will have to read the text and external links provided if you want to dig in more. This course won't give you deep understanding of each topic as its more of an introduction to different tools so you might have to dig in on subjects you need. But you don't have to worry because the course is targeted to introduce you to different tools so you can take a deep look when you actually need them. I rated this course 3 out of 5 because I didn't really had fun going through the course. BUT a lot of the tools are really commonly used and I feel confident that all the excess tools covered in the class will help me in the future. And it could be used as a great reference to always come back and check whats needed. Also, this blog is runned using github pages covered by the course. Very worth going through the course. 
+- Review: This course provides all the essential tools you need beyond conventional CS courses. You’ll learn how to use the shell, work with editors like Vim, manage projects with Git, and explore many other practical tools.
+
+Each topic is introduced through brief video lectures, but to gain a deeper understanding, you’ll need to read the provided text and external links. This course doesn’t offer an in-depth exploration of each subject since it serves more as an introduction to various tools. However, that’s not a drawback—the goal is to familiarize you with these tools, so you can explore them further when needed.
+
+I rated this course 3 out of 5 because I didn’t particularly enjoy going through it. However, many of the tools covered are widely used, and I feel confident that everything I learned here will be useful in the future. The course also serves as a great reference, making it easy to revisit and review topics when necessary.
+
+As a side note, this blog itself is hosted using GitHub Pages, which was covered in the course! Definitely worth going through.

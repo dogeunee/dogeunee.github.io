@@ -1,8 +1,10 @@
 # Self Study Soldier
 
- Hi! this is Dogeun.
+Hi! This is Dogeun.
 
- I live in South Korea and I am currently working in the ROK Airforce for my mandatory military service. I started my service at May 2025 and through out my 21 months I wanted to explore the field of CS and ECE to improve my knowleadge. I will regularly share what I have been studying in this blog and I hope it helps out people on their Self Studying Journey.
+I live in South Korea and am currently serving in the ROK Air Force for my mandatory military service. I started my service in May 2025, and throughout my 21 months, I wanted to explore the fields of Computer Science (CS) and Electrical & Computer Engineering (ECE) to deepen my knowledge.
+
+I will regularly share what I have been studying on this blog, and I hope it helps others on their self-study journey.
 
 **Reviews(finished date):**
 
@@ -14,27 +16,29 @@
 
 [MultivariableCalculus](./MultiCal) (Dec 2024)
 
+[CSAPP](./CSAPP) (Feb 2025)
+
 These are the reasons why I am starting this blog.
 
 **1. motivation for myself**
 
- Self studying is quite hard. I believe the best way to keep on doing something is to enjoy the process. The best is to enjoy the subjects that I am studying, however its hard to keep the excitement when you are studying in an extensive period of time. So I thought by maintaining a blog and writing a review of the content of what I am studying will keep me satisfied every time I finish a course and look forward to completing a course. 
+Self-studying is quite challenging. I believe the best way to stay consistent is to enjoy the process. The ideal scenario is to genuinely enjoy the subjects I study, but excitement can fade when studying for extended periods.
+
+By maintaining this blog and writing reviews about the content I study, I hope to stay motivated. Looking back at completed courses will give me a sense of accomplishment and push me to keep going.
 
 **2. Sharing**
 
- All the content I will be learning is from the internet made by a bunch of people including the course from universities to blog posts. I just want to return the help I got from participating and writing a review on the internet. I'm not sure how many people will be reading my blog but I hope it helps somebody.
+Everything I am learning comes from free online resources—whether university courses, blog posts, or open-source materials. I want to give back by sharing my experiences and reviews.
 
+I’m not sure how many people will read my blog, but I hope it helps someone
 
-
-These are some amazing websites that will guide ur self studying journey
+Here are some excellent resources that will guide your self-study journey:
 
 [1.teachyourselfcs](https://teachyourselfcs.com/)
-
-best studying guidline for CS in my opinion.
+The best CS self-study guide, in my opinion.
 
 [2.OSSU](https://github.com/ossu/computer-science)
-
-Famous online guidline for CS. l feel like it has more surplus courses compared to teach your self cs. But its worth to check it out.
+A famous open-source CS curriculum. It includes more tideous courses compared to Teach Yourself CS, but it's worth checking out.
 
 [3.Peking](https://csdiy.wiki/en/)
 
