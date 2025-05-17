@@ -20,6 +20,8 @@ I will regularly share what I have been studying on this blog, and I hope it hel
 
 [MachineLearning](./ML) (March 2025)
 
+[Probability](./Prob) (May 2025)
+
 These are the reasons why I am starting this blog.
 
 **1. motivation for myself**
