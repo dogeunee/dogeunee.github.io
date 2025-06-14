@@ -22,7 +22,7 @@ I will regularly share what I have been studying on this blog, and I hope it hel
 
 [Probability](./Prob) (May 2025)
 
-[Mathematical Foundations of Deep Nural Networks](./MFDNN) (June 2025)
+[Mathematical Foundations of Deep Neural Networks](./MFDNN) (June 2025)
 
 These are the reasons why I am starting this blog.
 
