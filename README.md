@@ -24,6 +24,8 @@ I will regularly share what I have been studying on this blog, and I hope it hel
 
 [Mathematical Foundations of Deep Neural Networks](./MFDNN) (June 2025)
 
+[CS231N](./CS231N) (Sep 2025)
+
 These are the reasons why I am starting this blog.
 
 **1. motivation for myself**
